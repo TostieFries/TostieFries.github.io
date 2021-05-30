@@ -1,0 +1,54 @@
+body, html{
+
+height:100%;
+width:100%
+}
+ 
+body{
+	background-color: #0066ff;
+}	
+
+.jumbotron{
+	
+}
+
+.col-lg{
+	color: white;
+	
+}
+
+.backgroundimg{
+	/*height: 550px;
+	width: 1200px;*/
+	 display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+.fakeimg{
+	background-image:url(../foto/background.jpg);
+	background-size: cover;
+	height:90%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff; /*#000000;*/
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color:#000000;
+}
