@@ -31,7 +31,7 @@ body{
 	width: 100%;
 }
 
-.fakeimg{
+.div{
 	background-image:url(../foto/background.jpg);
 	background-size: cover;
 	height:90%;
@@ -57,7 +57,5 @@ li a {
   text-decoration: none;
 }
 
-.div{
-	background:cover;
-}
+
 
