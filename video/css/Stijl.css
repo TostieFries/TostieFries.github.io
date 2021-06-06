@@ -32,7 +32,6 @@ body{
 }
 
 .div{
-	background-image:url(../video/video.mp4);
 	background-size: cover;
 	height:100%;
 }
