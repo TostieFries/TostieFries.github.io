@@ -32,9 +32,9 @@ body{
 }
 
 .div{
-	background-image:url(../foto/background.jpg);
+	background-image:url(../video/video.mp4);
 	background-size: cover;
-	height:90%;
+	height:100%;
 }
 
 ul {
