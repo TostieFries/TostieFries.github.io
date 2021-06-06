@@ -32,8 +32,8 @@ body{
 }
 
 .div{
-	background-size: cover;
-	height:100%;
+	width: 1080px;
+	height: 1080px;
 }
 
 ul {
